@@ -10,7 +10,7 @@ Tenemos que tener instalado Google Chrome [Descarga](https://www.google.com/intl
 
 Verificamos la version de nuestro <b>navegador Chrome:</b>
 
-[![Mirar video]](version.mp4)
+![Watch the video](version.gif)
 
 <p>
 
@@ -25,7 +25,7 @@ Verificamos la version de nuestro <b>navegador Chrome:</b>
 
 <p>
 
-[![Mirar video]](friver.mp4)
+![Watch the video](friver.gif)
 
 
 ### Clonamos el repositorio:
@@ -40,7 +40,7 @@ Nota: Tienes que tener instalado python.
 
 <p>
 
-[![Mirar video]](fin.mp4)
+![Watch the video](fin.gif)
 
 
 

@@ -10,8 +10,7 @@ Tenemos que tener instalado Google Chrome [Descarga](https://www.google.com/intl
 
 Verificamos la version de nuestro <b>navegador Chrome:</b>
 
-<video src="version.mp4" width=320  height=240 controls>
-</video>
+[![Mirar video]](version.mp4)
 
 <p>
 
@@ -25,8 +24,9 @@ Verificamos la version de nuestro <b>navegador Chrome:</b>
 [ChromeDriver 87.0.4280.88](https://chromedriver.storage.googleapis.com/index.html?path=87.0.4280.88/)
 
 <p>
-<video src="friver.mp4" width=320  height=240 controls>
-</video>
+
+[![Mirar video]](friver.mp4)
+
 
 ### Clonamos el repositorio:
 
@@ -40,8 +40,9 @@ Nota: Tienes que tener instalado python.
 
 <p>
 
-<video src="fin.mp4" width=320  height=240 controls>
-</video>
+[![Mirar video]](fin.mp4)
+
+
 
 
 

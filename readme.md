@@ -6,6 +6,8 @@ Siguenos en nuestras redes sociales, de Seguridad Informatica [Facebook](https:/
 
 ## Uso e Instalacion:
 
+Podemos encontrar el numero de DNI de cada persona registrada en una base de datos, mediante los nombres y apellidos, por lo contrario con solo el numero de DNI puedes hallar los nombres completos.
+
 Tenemos que tener instalado Google Chrome [Descarga](https://www.google.com/intl/es-419/chrome/)
 
 Verificamos la version de nuestro <b>navegador Chrome:</b>
